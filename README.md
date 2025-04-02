@@ -10,7 +10,7 @@ Hi there! I'm **Rodrigo Aravena**, a **Full Stack Developer** with a passion for
 - 🎓 **Education**: Bachelor's Degree in Computer Engineering (Duoc UC, 2020-2024).  
 - 🌐 **Portfolio**: [rodrigog898.github.io](https://rodrigog898.github.io)  
 - 📫 **Email**: [ro.aravenac@gmail.com](mailto:ro.aravenac@gmail.com)
-- 📋 **CV**: [View](https://drive.google.com/file/d/1GcXOaBSvDhDDJDPzlyxKtdbcHZOkKjUE/view?usp=sharing)
+
 
 
 ---

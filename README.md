@@ -8,7 +8,7 @@ Hi there! I'm **Rodrigo Aravena**, a **Full Stack Developer** with a passion for
 ## 🚀 About Me
 
 - 🎓 **Education**: Bachelor's Degree in Computer Engineering (Duoc UC, 2020-2024).  
-- 🌐 **Portfolio**: [rodrigog898.github.io](https://rodrigog898.github.io)  
+- 🌐 **Portfolio**: [rodrigog898.github.io](https://rodrigog898.github.io) (DEV) 
 - 📫 **Email**: [ro.aravenac@gmail.com](mailto:ro.aravenac@gmail.com)
 - 🌐 **Mi App**  [WealthWise](https://rodrigo-aravena.vexy.host)  
 
